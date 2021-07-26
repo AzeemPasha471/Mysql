@@ -58,7 +58,7 @@ update employee_payroll
 set 
 	department='Finance' 
 where
-	name in ('vaibhav');
+	name in ('abc');
 
 select * from employee_payroll;     
 
