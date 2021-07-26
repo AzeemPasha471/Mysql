@@ -73,10 +73,7 @@ add net_pay int;
 #Uc10
 insert into employee_payroll (name,department,gender,basic_pay
 ,deductions,taxable_pay,tax,net_pay,start) values
-	('Terissa','Marketing','F',3000000,1000000,
+	('abc','Marketing','M',3000000,1000000,
     2000000,500000,1500000,'2021-07-08');
     
-insert into employee_payroll (name,department,gender,basic_pay
-,deductions,taxable_pay,tax,net_pay,start) values
-	('Terissa','Sales','F',3000000,
-    0,0,0,0,'2021-06-01');
+
